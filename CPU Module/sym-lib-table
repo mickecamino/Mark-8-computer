@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name MCU_8008)(type Legacy)(uri "${KIPRJMOD}/../Mark 8 Libraries/MCU_8008.lib")(options "")(descr ""))
+  (lib (name M8_Conn_41-Mark-8)(type Legacy)(uri "${KIPRJMOD}/../Mark 8 Libraries/M8_Conn_41-Mark-8.lib")(options "")(descr ""))
+)

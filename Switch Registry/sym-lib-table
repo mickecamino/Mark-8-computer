@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name M8_power_Supply)(type Legacy)(uri "${KIPRJMOD}/../Mark 8 Libraries/M8_power_Supply.lib")(options "")(descr ""))
+)

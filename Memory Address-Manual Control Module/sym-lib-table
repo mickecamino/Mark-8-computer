@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name Connector_41-pin)(type Legacy)(uri "${KIPRJMOD}/../Mark 8 Libraries/Connector_41-pin.lib")(options "")(descr ""))
+)
